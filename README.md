@@ -1,7 +1,7 @@
 # Spam-GHS<br><br>
 Spammer-GHS é um software de envios de mensagem em várias E-mails<br>
 pode utilizar tags html para melhorar o corpo da mensagem enviada<br>
-Autor: Mister Cyber, Team: GHS | C.I.H, Data: 14/08/2018<br><br>
+Autor: Mister Cyber, Team: GHS | C.I.H,  Data: 14/08/2018<br><br>
 
 [◾] Instalação da ferramenta<br>
 apt-get update<br>
