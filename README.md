@@ -8,6 +8,6 @@ apt-get update<br>
 apt-get install python2 -y<br>
 apt-get install python3 -y<br>
 apt-get install git<br>
-git clone<br>
+git clone https://github.com/MisterCyber/Spam-GHS<br>
 chmod +x Spam-GHS<br>
 python3 SpammerGHS.py<br>
